@@ -1,0 +1,284 @@
+{
+  "menu": [
+    {
+      "nama_menu": "Cheese Volcano",
+      "kategori": "Premium",
+      "harga": 70000,
+      "deskripsi": "Saus Keju Cheddar Spesial, Saus Domino's Pizza, Beef Rasher, Jamur Champignon, Parsley AVAILABLE IN SIZES: Medium Pizza: 8 slices Large Pizza: 12 slices",
+      "gambar": "Volcano_Cheese.png"
+    },
+    {
+      "nama_menu": "Ultimate Cheese Melt",
+      "kategori": "Premium",
+      "harga": 70000,
+      "deskripsi": "Liquid Cheese Sauce, Mozzarella Cheese, Cheddar Cheese Sauce, Ricotta Cheese , Mozzarella String, Parmesan Cheese, Parsl",
+      "gambar": "Ultimate_Cheese.png"
+    },
+    {
+      "nama_menu": "Classic Cheese Burger",
+      "kategori": "Premium",
+      "harga": 70000,
+      "deskripsi": "Tomato Sauce, Mustard Sauce, Tomato, Beef Rasher, Beef Crumble, Onion, Slice Cheese, Mozzarella Cheese",
+      "gambar": "American_ClassicCheese.png"
+    },
+    {
+      "nama_menu": "Chicken Lovers",
+      "kategori": "Premium",
+      "harga": 70000,
+      "deskripsi": "Tomato Sauce, Chicken Rasher, parsley, Chicken Pepperoni, Marinated Chicken, Cheesy Bites, Mozzarella Cheese",
+      "gambar": "Chicken_Lovers.png"
+    },
+    {
+      "nama_menu": "Cheese Mania",
+      "kategori": "Premium",
+      "harga": 70000,
+      "deskripsi": "Domino's Pizza Sauce, Parsley, Extra Mozzarella Cheese",
+      "gambar": "Cheese_Mania (2).png"
+    },
+    {
+      "nama_menu": "Extravaganzza",
+      "kategori": "Premium",
+      "harga": 70000,
+      "deskripsi": "Domino's Pizza Sauce, Green Pepper, Onion, Black Olives, Mushroom, Beef Pepperoni, Beef Crumble, Mozzarella Cheese",
+      "gambar": "Extravaganza.png"
+    },
+    {
+      "nama_menu": "Meatzza",
+      "kategori": "Premium",
+      "harga": 70000,
+      "deskripsi": "Domino's Pizza Sauce, Beef Pepperoni, Beef Sausage Cut, Beef Crumble, Beef Rasher, Marinated Chicken, Mozzarella Cheese",
+      "gambar": "Meatzza.png"
+    },
+    {
+      "nama_menu": "Veggie Mania",
+      "kategori": "Premium",
+      "harga": 70000,
+      "deskripsi": "Domino's Pizza Sauce, Green Pepper, Corn, Mushroom, Tomato, Black Olives, Onion, Parsley, Mozzarella Cheese",
+      "gambar": "Veggie_Mania (2).png"
+    },
+    {
+      "nama_menu": "Alfredo Beef Mushroom Truffle",
+      "kategori": "Premium",
+      "harga": 70000,
+      "deskripsi": "Truffle Alfredo Sauce, Keju Mozzarella, Beef Burger, Onion, Jamur Champignon, Keju Parmesan, Parsley",
+      "gambar": "Alfredo_Beef.png"
+    },
+    {
+      "nama_menu": "Alfredo Chicken Mushroom Truffle",
+      "kategori": "Premium",
+      "harga": 70000,
+      "deskripsi": "Truffle Alfredo Sauce, Keju Mozzarella, Chk Sausage, Onion, Jamur Champignon, Keju Parmesan, Parsley",
+      "gambar": "Alfredo_Chicken.png"
+    },
+    {
+      "nama_menu": "Ultimate Meat Overload",
+      "kategori": "Premium",
+      "harga": 70000,
+      "deskripsi": "Sauce BBQ, Sauce Keju, Keju Mozzarella, Beef Pepperoni, Beef Rasher, Beef Crumble, Sosis Sapi, Sosis Ayam, Chicken Strips, Parsley",
+      "gambar": "Ultimate_MeatOverload.png"
+    },
+    {
+      "nama_menu": "Margharita",
+      "kategori": "Classic",
+      "harga": 45000,
+      "deskripsi": "Domino's Pizza Sauce, Tomato, Parsley, Mozzarella Cheese",
+      "gambar": "MargharitaPizza.webp"
+    },
+    {
+      "nama_menu": "Chicken Pepproni Feast",
+      "kategori": "Classic",
+      "harga": 45000,
+      "deskripsi": "Domino's Pizza Sauce, Chicken Pepperoni, Mozzarella Cheese",
+      "gambar": "ChickenPepperoniFeast.png"
+    },
+    {
+      "nama_menu": "Cheesy Sausage",
+      "kategori": "Classic",
+      "harga": 45000,
+      "deskripsi": "Domino's Pizza Sauce, Beef Sausage Cut, Mozzarella Cheese",
+      "gambar": "CheesySausage.webp"
+    },
+    {
+      "nama_menu": "Beef Delight",
+      "kategori": "Classic",
+      "harga": 45000,
+      "deskripsi": "Domino's Pizza Sauce, Beef Rasher, Mozzarella Cheese",
+      "gambar": "BeefDelight.webp"
+    },
+    {
+      "nama_menu": "Meat & Meat",
+      "kategori": "Classic",
+      "harga": 70000,
+      "deskripsi": "Domino's Pizza Sauce, Parsley, Beef Pepperoni, Beef Sausage Cut, Mozzarella Cheese",
+      "gambar": "Meat_Meat.webp"
+    },
+    {
+      "nama_menu": "Beef Pepperoni Feast",
+      "kategori": "Classic",
+      "harga": 70000,
+      "deskripsi": "Domino's Pizza Sauce, Beef Pepperoni, Mozzarella Cheese",
+      "gambar": "BeefPapperoniFeast.png"
+    },
+    {
+      "nama_menu": "Creamy Chiken",
+      "kategori": "Pizza Mania",
+      "harga": 17000,
+      "deskripsi": "Saus Keju, Chicken Strips, Keju Mozarella, Mayonnaise, Parsley",
+      "gambar": "CreamyChicken.webp"
+    },
+    {
+      "nama_menu": "Chiken BBQ",
+      "kategori": "Pizza Mania",
+      "harga": 17000,
+      "deskripsi": "Saus Barbeque, Sauce Rustic, Sauce Keju, Sosis Ayam, Keju Mozarella, Parsley",
+      "gambar": "ChickenBbq.webp"
+    },
+    {
+      "nama_menu": "K-Lovers",
+      "kategori": "Pizza Mania",
+      "harga": 17000,
+      "deskripsi": "Saus Gochujang, Saus Keju, Sosis Sapi, Wijen, Parsley, Keju Mozzarella",
+      "gambar": "K-Lovers.webp"
+    },
+    {
+      "nama_menu": "Beef Rasher",
+      "kategori": "Pizza Mania",
+      "harga": 17000,
+      "deskripsi": "Saus Sambal, Beef Rasher, Parsley, Saus Keju, Keju Mozzarella",
+      "gambar": "BeefRasher.webp"
+    },
+    {
+      "nama_menu": "Cheesy Beef",
+      "kategori": "Pizza Mania",
+      "harga": 17000,
+      "deskripsi": "Saus Keju, Cheddar, Sauce Tomat, Sosis Sapi, Keju Mozarella, Parsley",
+      "gambar": "CheesyBeef.webp"
+    },
+    {
+      "nama_menu": "Bread Sticks",
+      "kategori": "Bread",
+      "harga": 27000,
+      "deskripsi": "Roti panjang yang dipotong-potong menjadi stik, tampak dipanggang hingga berwarna keemasan yang sangat menggiurkan karna cita rasa yang gurih cheesy.",
+      "gambar": "Bread_Stick.png"
+    },
+    {
+      "nama_menu": "Garlic Cheesy Rolls ",
+      "kategori": "Bread",
+      "harga": 21000,
+      "deskripsi": " Roti gulung dengan isian keju dan bawang putih, terlihat lembut dan menggiurkan.",
+      "gambar": "Garlic_Cheesy.png"
+    },
+    {
+      "nama_menu": "Cheesy Bread",
+      "kategori": "Bread",
+      "harga": 30000,
+      "deskripsi": "Roti yang ditaburi keju meleleh di atasnya, tampak gurih dan nikmat.",
+      "gambar": "Cheesy_Bread.png"
+    },
+    {
+      "nama_menu": "Cheese Calzone Sticks Extra Cheese",
+      "kategori": "Bread",
+      "harga": 35000,
+      "deskripsi": "Stik calzone isi keju ekstra, tampak renyah di luar dan lumer di dalam.",
+      "gambar": "Calzon_Stick.png"
+    },
+    {
+      "nama_menu": "Cheesy Calzone Sticks",
+      "kategori": "Bread",
+      "harga": 34000,
+      "deskripsi": "Calzone berbentuk stik dengan taburan keju yang menggugah selera. Tampak renyah di luar dan lembut dengan isian keju di dalamnya.",
+      "gambar": "Calzon_Stick.png"
+    },
+    {
+      "nama_menu": "Tasty Stuffed Pocket Peppery Beef Sausage",
+      "kategori": "Sides",
+      "harga": 10000,
+      "deskripsi": "Roti lembut berbentuk saku yang diisi dengan sosis sapi lada hitam, memberikan cita rasa gurih dan sedikit pedas.",
+      "gambar": "Tasty_PepperyBeef.png"
+    },
+    {
+      "nama_menu": "Tasty Stuffed Pocket Peppery Beef Sausage With Cheese",
+      "kategori": "Sides",
+      "harga": 13000,
+      "deskripsi": "Sama seperti sebelumnya, tetapi dengan tambahan keju meleleh yang membuat rasanya semakin kaya dan nikmat.",
+      "gambar": "Stuffe_Dpocket.png"
+    },
+    {
+      "nama_menu": "Crispy Tortilla Chips",
+      "kategori": "Sides",
+      "harga": 18000,
+      "deskripsi": "Potongan tortilla renyah yang cocok dicocol dengan saus, ideal sebagai camilan ringan.",
+      "gambar": "Crispy_Tortilla.png"
+    },
+    {
+      "nama_menu": "Chicken Wings",
+      "kategori": "Sides",
+      "harga": 30000,
+      "deskripsi": "Sayap ayam yang digoreng atau dipanggang hingga renyah, cocok sebagai teman makan atau camilan saat santai.",
+      "gambar": "Chicken_Wings (2).png"
+    },
+    {
+      "nama_menu": "Crispy Chicken Strips",
+      "kategori": "Sides",
+      "harga": 27000,
+      "deskripsi": "Potongan daging ayam yang dibalut tepung roti dan digoreng hingga renyah, cocok dinikmati dengan saus favorit.",
+      "gambar": "Chicken_Strip.png"
+    },
+    {
+      "nama_menu": "Chick and Cheese Ring",
+      "kategori": "Sides",
+      "harga": 27000,
+      "deskripsi": " Cincin ayam dan keju yang renyah di luar dan lembut di dalam, camilan lezat untuk segala suasana.",
+      "gambar": "Chick_AndCheesering.png"
+    },
+    {
+      "nama_menu": "Habanero Boneless Wings",
+      "kategori": "Sides",
+      "harga": 24000,
+      "deskripsi": "Potongan daging ayam tanpa tulang dengan bumbu habanero pedas, cocok bagi pencinta rasa pedas yang menantang.",
+      "gambar": "Habanero_Boneles.png"
+    },
+    {
+      "nama_menu": "Mac'N Cheese",
+      "kategori": "Pasta",
+      "harga": 32000,
+      "deskripsi": "Makaroni yang berpadu dengan saus keju creamy dan gurih, hidangan klasik yang selalu memanjakan lidah.",
+      "gambar": "Mac_AndCheese.png"
+    },
+    {
+      "nama_menu": "Chicken Creamy Spaghetti",
+      "kategori": "Pasta",
+      "harga": 32000,
+      "deskripsi": "Spaghetti yang disajikan dengan saus krim ayam yang lezat dan kaya rasa, hidangan pasta",
+      "gambar": "Chicken_CreamySpaghetti.png"
+    },
+    {
+      "nama_menu": "Mac'N Truflle Alfredo Beef",
+      "kategori": "Pasta",
+      "harga": 32000,
+      "deskripsi": "Makaroni dengan saus alfredo truffle yang mewah dan potongan daging sapi yang lezat, hidangan istimewa untuk memanjakan diri. yang memuaskan.",
+      "gambar": "Mac_AndTruffle.png"
+    },
+    {
+      "nama_menu": "Choco Bread Sticks",
+      "kategori": "Dessert",
+      "harga": 27000,
+      "deskripsi": "Roti stik lembut dengan taburan cokelat yang menggugah selera, cocok sebagai teman minum kopi atau teh.",
+      "gambar": "Choco_BreadSticks.png"
+    },
+    {
+      "nama_menu": "Chocolate Lava",
+      "kategori": "Dessert",
+      "harga": 28000,
+      "deskripsi": "Kue cokelat dengan lelehan cokelat di dalamnya, hidangan penutup yang sempurna untuk memuaskan hasrat cokelat Anda.",
+      "gambar": "Chocolate_Lava.png"
+    },
+    {
+      "nama_menu": "Chocociz Rolls",
+      "kategori": "Dessert",
+      "harga": 28000,
+      "deskripsi": "Roti gulung lembut dengan isian cokelat dan keju yang lumer, kombinasi rasa manis dan gurih yang unik.",
+      "gambar": "Chocociz_Rolls.png"
+    }
+  ]
+}

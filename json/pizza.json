@@ -1,0 +1,107 @@
+{
+  "menu": [
+    {
+    "nama_menu": "Creamy Chiken",
+    "kategori": "Pizza Mania",
+    "harga": { "personal": 17000 },
+    "deskripsi": "Saus keju, mayonaise, chiken strip, keju mozzarella",
+    "gambar": "img/CreamyChicken.webp"
+    },
+
+   {
+    "nama_menu": "Chiken BBQ", 
+    "kategori": "Pizza Mania",
+    "harga": {"personal": 17000},
+    "deskripsi": "Saus berbeque, saus rustic, saus keju, saus ayam, keju mozzarela",
+    "gambar": "img/ChickenBbq.webp"
+    },
+
+     {
+    "nama_menu": "K-Lovers", 
+    "kategori": "Pizza Mania",
+    "harga": {"personal": 17000},
+    "deskripsi": "Saus gochujang, saus keju, sosis sapi, wijen, keju mozzarela",
+    "gambar": "img/K-Lovers.webp"
+    },
+
+    {
+    "nama_menu": "Beef Rasher", 
+    "kategori": "Pizza Mania",
+    "harga": {"personal": 17000},
+    "deskripsi": "Saus keju, saus sambal, beef rasher, keju mozzarela",
+    "gambar": "img/BeefRasher.webp"
+    },
+
+     {
+    "nama_menu": "Cheesy Beef", 
+    "kategori": "Pizza Mania",
+    "harga": {"personal": 17000},
+    "deskripsi": "Saus keju cheddar, saus teroot, sosis sapi, keju mozzarela",
+    "gambar": "img/CheesyBeef.webp"
+    },
+
+    {
+    "nama_menu": "Margharita", 
+    "kategori": "Super Value Pizza",
+    "harga": {"personal": 45000},
+    "deskripsi": "Saus Domino's Pizza, Chicken Papperoni, keju mozzarela",
+    "gambar": "img/MargharitaPizza.webp"
+    },
+
+      {
+    "nama_menu": "Chicken Pepproni Feast", 
+    "kategori": "Super Value Pizza",
+    "harga": {"personal": 45000},
+    "deskripsi": "Saus Domino's Pizza, chicken pepperoni, keju mozzarela",
+    "gambar": "img/ChickenPepperoniFeast.png"
+    },
+
+    {
+    "nama_menu": "Cheesy Sausage", 
+    "kategori": "Super Value Pizza",
+    "harga": {"personal": 45000},
+    "deskripsi": "Saus Domino's Pizza, Sosis Sapi, keju mozzarela",
+    "gambar": "img/CheesySausage.webp"
+    },
+
+    {
+    "nama_menu": "Beef Delight", 
+    "kategori": "Super Value Pizza",
+    "harga": {"personal": 45000},
+    "deskripsi": "Saus Domino's Pizza, Beef Rasher, keju mozzarela",
+    "gambar": "img/BeefDelight.webp"
+    }, 
+
+    {
+    "nama_menu": "Chicken Delight", 
+    "kategori": "Favourite Pizza",
+    "harga": {"personal": 70000},
+    "deskripsi": "Saus Domino's Pizza, Chili Chicken, Tomat, Bawang, keju mozzarela",
+    "gambar": "img/ChickenDelight.png"
+    }, 
+
+    {
+    "nama_menu": "Double Beef Burger", 
+    "kategori": "Favourite Pizza",
+    "harga": {"personal": 70000},
+    "deskripsi": "Saus Domino's Pizza, Saus Mustard, Saus Tomat, Beef Crumble, Tomat, Keju mozzarela",
+    "gambar": "img/DoubleBeef.webp"
+    }, 
+
+    {
+    "nama_menu": "Meat & Meat", 
+    "kategori": "Favourite Pizza",
+    "harga": {"personal": 70000},
+    "deskripsi": "Saus Domino's Pizza, Sosis sapi, Beef Pepperoni, Keju mozzarela",
+    "gambar": "img/Meat_Meat.webp"
+    },
+
+    {
+    "nama_menu": "Beef Pepperoni Feast", 
+    "kategori": "Favourite Pizza",
+    "harga": {"personal": 70000},
+    "deskripsi": "Saus Domino's Pizza, Beef Pepperoni, Keju mozzarela",
+    "gambar": "img/BeefPapperoniFeast.png"
+    }
+]
+} 

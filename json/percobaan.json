@@ -1,0 +1,19 @@
+[
+    {
+    "nama": "Anggieta", 
+    "umur": 17,
+    "nik": "08090809",
+    "lulus": false,
+    "hobby": ["memasak", "nonton drakor"],
+    "pembimbing": {"pembimbing 1" : "Ibu Chinetia", "pembimbing 2" : "Pak Fauzi"}
+    },
+
+    {
+    "nama": "Arinka", 
+    "umur": 16,
+    "nik": "787878",
+    "lulus": false,
+    "hobby": ["membaca", "nonton drakor", "menggambar"],
+    "pembimbing": {"pembimbing 1" : "Ibu Chinetia", "pembimbing 2" : "Pak Fauzi"}
+    }
+]
