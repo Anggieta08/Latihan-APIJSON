@@ -2,154 +2,154 @@
   "menu": [
     {
       "nama_menu": "Cheese Volcano",
-      "kategori": "Premium",
+      "kategori": "Pizza",
       "harga": 70000,
       "deskripsi": "Saus Keju Cheddar Spesial, Saus Domino's Pizza, Beef Rasher, Jamur Champignon, Parsley AVAILABLE IN SIZES: Medium Pizza: 8 slices Large Pizza: 12 slices",
       "gambar": "Volcano_Cheese.png"
     },
     {
       "nama_menu": "Ultimate Cheese Melt",
-      "kategori": "Premium",
+      "kategori": "Pizza",
       "harga": 70000,
       "deskripsi": "Liquid Cheese Sauce, Mozzarella Cheese, Cheddar Cheese Sauce, Ricotta Cheese , Mozzarella String, Parmesan Cheese, Parsl",
       "gambar": "Ultimate_Cheese.png"
     },
     {
       "nama_menu": "Classic Cheese Burger",
-      "kategori": "Premium",
+      "kategori": "Pizza",
       "harga": 70000,
       "deskripsi": "Tomato Sauce, Mustard Sauce, Tomato, Beef Rasher, Beef Crumble, Onion, Slice Cheese, Mozzarella Cheese",
       "gambar": "American_ClassicCheese.png"
     },
     {
       "nama_menu": "Chicken Lovers",
-      "kategori": "Premium",
+      "kategori": "Pizza",
       "harga": 70000,
       "deskripsi": "Tomato Sauce, Chicken Rasher, parsley, Chicken Pepperoni, Marinated Chicken, Cheesy Bites, Mozzarella Cheese",
       "gambar": "Chicken_Lovers.png"
     },
     {
       "nama_menu": "Cheese Mania",
-      "kategori": "Premium",
+      "kategori": "Pizza",
       "harga": 70000,
       "deskripsi": "Domino's Pizza Sauce, Parsley, Extra Mozzarella Cheese",
-      "gambar": "Cheese_Mania (2).png"
+      "gambar": "Cheese_Mania.png"
     },
     {
       "nama_menu": "Extravaganzza",
-      "kategori": "Premium",
+      "kategori": "Pizza",
       "harga": 70000,
       "deskripsi": "Domino's Pizza Sauce, Green Pepper, Onion, Black Olives, Mushroom, Beef Pepperoni, Beef Crumble, Mozzarella Cheese",
       "gambar": "Extravaganza.png"
     },
     {
       "nama_menu": "Meatzza",
-      "kategori": "Premium",
+      "kategori": "Pizza",
       "harga": 70000,
       "deskripsi": "Domino's Pizza Sauce, Beef Pepperoni, Beef Sausage Cut, Beef Crumble, Beef Rasher, Marinated Chicken, Mozzarella Cheese",
       "gambar": "Meatzza.png"
     },
     {
       "nama_menu": "Veggie Mania",
-      "kategori": "Premium",
+      "kategori": "Pizza",
       "harga": 70000,
       "deskripsi": "Domino's Pizza Sauce, Green Pepper, Corn, Mushroom, Tomato, Black Olives, Onion, Parsley, Mozzarella Cheese",
-      "gambar": "Veggie_Mania (2).png"
+      "gambar": "Veggie_Mania.png"
     },
     {
       "nama_menu": "Alfredo Beef Mushroom Truffle",
-      "kategori": "Premium",
+      "kategori": "Pizza",
       "harga": 70000,
       "deskripsi": "Truffle Alfredo Sauce, Keju Mozzarella, Beef Burger, Onion, Jamur Champignon, Keju Parmesan, Parsley",
       "gambar": "Alfredo_Beef.png"
     },
     {
       "nama_menu": "Alfredo Chicken Mushroom Truffle",
-      "kategori": "Premium",
+      "kategori": "Pizza",
       "harga": 70000,
       "deskripsi": "Truffle Alfredo Sauce, Keju Mozzarella, Chk Sausage, Onion, Jamur Champignon, Keju Parmesan, Parsley",
       "gambar": "Alfredo_Chicken.png"
     },
     {
       "nama_menu": "Ultimate Meat Overload",
-      "kategori": "Premium",
+      "kategori": "Pizza",
       "harga": 70000,
       "deskripsi": "Sauce BBQ, Sauce Keju, Keju Mozzarella, Beef Pepperoni, Beef Rasher, Beef Crumble, Sosis Sapi, Sosis Ayam, Chicken Strips, Parsley",
       "gambar": "Ultimate_MeatOverload.png"
     },
     {
       "nama_menu": "Margharita",
-      "kategori": "Classic",
+      "kategori": "Pizza",
       "harga": 45000,
       "deskripsi": "Domino's Pizza Sauce, Tomato, Parsley, Mozzarella Cheese",
       "gambar": "MargharitaPizza.webp"
     },
     {
       "nama_menu": "Chicken Pepproni Feast",
-      "kategori": "Classic",
+      "kategori": "Pizza",
       "harga": 45000,
       "deskripsi": "Domino's Pizza Sauce, Chicken Pepperoni, Mozzarella Cheese",
       "gambar": "ChickenPepperoniFeast.png"
     },
     {
       "nama_menu": "Cheesy Sausage",
-      "kategori": "Classic",
+      "kategori": "Pizza",
       "harga": 45000,
       "deskripsi": "Domino's Pizza Sauce, Beef Sausage Cut, Mozzarella Cheese",
       "gambar": "CheesySausage.webp"
     },
     {
       "nama_menu": "Beef Delight",
-      "kategori": "Classic",
+      "kategori": "Pizza",
       "harga": 45000,
       "deskripsi": "Domino's Pizza Sauce, Beef Rasher, Mozzarella Cheese",
       "gambar": "BeefDelight.webp"
     },
     {
       "nama_menu": "Meat & Meat",
-      "kategori": "Classic",
+      "kategori": "Pizza",
       "harga": 70000,
       "deskripsi": "Domino's Pizza Sauce, Parsley, Beef Pepperoni, Beef Sausage Cut, Mozzarella Cheese",
       "gambar": "Meat_Meat.webp"
     },
     {
       "nama_menu": "Beef Pepperoni Feast",
-      "kategori": "Classic",
+      "kategori": "Pizza",
       "harga": 70000,
       "deskripsi": "Domino's Pizza Sauce, Beef Pepperoni, Mozzarella Cheese",
       "gambar": "BeefPapperoniFeast.png"
     },
     {
       "nama_menu": "Creamy Chiken",
-      "kategori": "Pizza Mania",
+      "kategori": "Pizza",
       "harga": 17000,
       "deskripsi": "Saus Keju, Chicken Strips, Keju Mozarella, Mayonnaise, Parsley",
       "gambar": "CreamyChicken.webp"
     },
     {
       "nama_menu": "Chiken BBQ",
-      "kategori": "Pizza Mania",
+      "kategori": "Pizza",
       "harga": 17000,
       "deskripsi": "Saus Barbeque, Sauce Rustic, Sauce Keju, Sosis Ayam, Keju Mozarella, Parsley",
       "gambar": "ChickenBbq.webp"
     },
     {
       "nama_menu": "K-Lovers",
-      "kategori": "Pizza Mania",
+      "kategori": "Pizza",
       "harga": 17000,
       "deskripsi": "Saus Gochujang, Saus Keju, Sosis Sapi, Wijen, Parsley, Keju Mozzarella",
       "gambar": "K-Lovers.webp"
     },
     {
       "nama_menu": "Beef Rasher",
-      "kategori": "Pizza Mania",
+      "kategori": "Pizza",
       "harga": 17000,
       "deskripsi": "Saus Sambal, Beef Rasher, Parsley, Saus Keju, Keju Mozzarella",
       "gambar": "BeefRasher.webp"
     },
     {
       "nama_menu": "Cheesy Beef",
-      "kategori": "Pizza Mania",
+      "kategori": "Pizza",
       "harga": 17000,
       "deskripsi": "Saus Keju, Cheddar, Sauce Tomat, Sosis Sapi, Keju Mozarella, Parsley",
       "gambar": "CheesyBeef.webp"
